@@ -1,0 +1,30 @@
+{
+  "name": "liri-hw",
+  "version": "1.0.0",
+  "description": "Home work",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bgrosser0/Liri-HW.git"
+  },
+  "author": "Beng Grosser",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bgrosser0/Liri-HW/issues"
+  },
+  "homepage": "https://github.com/Bgrosser0/Liri-HW#readme",
+  "dependencies": {
+    "defaults": "^1.0.3",
+    "dotenv": "^5.0.1",
+    "node-spotify-api": "^1.0.7",
+    "omdb": "^0.8.0",
+    "omdb-client": "^2.0.0",
+    "set-default": "^0.3.0",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {},
+  "keywords": []
+}
